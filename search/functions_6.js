@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['neighbourpoints_0',['NeighbourPoints',['../structNeighbourPoints.html#a35410a5433a6ff6b5428996d4758e397',1,'NeighbourPoints']]]
+  ['openlabyrinth_0',['openLabyrinth',['../namespaceLabyrinthMaker.html#a3c92c8cba4626ccd218584a0c446857d',1,'LabyrinthMaker']]]
 ];

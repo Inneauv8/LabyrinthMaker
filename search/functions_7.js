@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['openlabyrinth_0',['openLabyrinth',['../namespaceLabyrinthMaker.html#a3c92c8cba4626ccd218584a0c446857d',1,'LabyrinthMaker']]]
+  ['point_0',['Point',['../structPoint.html#a001c4958c310b248f5c26037aea38a9c',1,'Point']]]
 ];

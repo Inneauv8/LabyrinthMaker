@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['w_0',['w',['../structLabyrinth.html#a8a2c449f39ed2c9fd7146f732dde559b',1,'Labyrinth']]]
+  ['x_0',['x',['../structPoint.html#a8c779e11e694b20e0946105a9f5de842',1,'Point']]]
 ];

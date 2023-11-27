@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['hasconnexions_0',['hasConnexions',['../structVertex.html#a435a017a350482a0e245d8b5c7d8a945',1,'Vertex']]]
+  ['iscellfree_0',['isCellFree',['../namespaceLabyrinthMaker.html#a03f8bb2611aff910f661695e96d7c591',1,'LabyrinthMaker']]],
+  ['ispointinsidegrid_1',['isPointInsideGrid',['../namespaceLabyrinthMaker.html#a67891bb45c6175430e4153cc11bf76eb',1,'LabyrinthMaker']]]
 ];
