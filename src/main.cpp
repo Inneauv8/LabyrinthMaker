@@ -18,6 +18,8 @@ Modifications :
 #include <Arduino.h>
 #include <LibRobus.h>
 
+#include "LabyrinthMaker.h"
+
 // *************************************************************************************************
 //  CONSTANTES
 // *************************************************************************************************
@@ -42,10 +44,14 @@ Modifications :
  * @brief Initialisation du programme.
  * @author Mathieu Durand
  */
+
+Labyrinth labyrinth = Labyrinth(10, 10);
 void setup()
 {   
     BoardInit();
     Serial.begin(115200); // 115200 ou 9600
+
+    LabyrinthMaker::generateMaze(&labyrinth, 10, 10);
     
     // Décommenter si le programme a absolument besoin du serial.
     //while(!Serial);

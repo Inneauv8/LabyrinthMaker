@@ -1,16 +1,16 @@
 {
-    "name":"",
-    "description":"",
-    "keywords":"",
+    "name":"LabyrinthMaker",
+    "description":"A library to make labyrinth",
+    "keywords":"robus",
     "authors":
     [
       {
-        "name": "Name",
+        "name": "Mathieu Durand",
         "maintainer": true
       }
     ],
     "version": "1.0.0",
     "dependencies": {
-      "LibRobUS": "https://github.com/UdeS-GRO/LibRobUS",
+      "LibRobUS": "https://github.com/UdeS-GRO/LibRobUS"
     }
   }
